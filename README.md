@@ -53,19 +53,6 @@ I'm comfortable improving imperfect systems incrementally while keeping services
 
 ---
 
-## Selected Impact
-
-- Built a year-end promotion service in **2 days**, saving **₩5,000,000** in outsourcing cost
-- Reduced refund handling time by **83%**
-- Automated repetitive workflows and reduced operational workload by about **90%**
-- Solved field concurrency issues with **Redis distributed locks** and **MongoDB atomic updates**
-- Improved throughput by **3x** and reduced response time from **5s to 1s**
-- Isolated bulk vs real-time messaging with **Kafka consumer groups**
-- Improved stain-care success rate from **70% to 90%**
-- Reduced premium inspection time by **40%**
-
----
-
 ## Tech Stack
 
 ### Backend
